@@ -232,7 +232,7 @@ li.sub-menu-style-two:hover ul.sub-menu-two {
    <!-- Hero Area Css-->
 ==================================---*/
 .hero-area {
-    background: url(../img/home-1/hero-bg.jpg);
+    background: url(../img/ext-2.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -242,7 +242,19 @@ li.sub-menu-style-two:hover ul.sub-menu-two {
 }
 
 .hero-area.style-two {
-    background: url(../img/home-1/hero-bg2.jpg);
+    background: url(../img/restaurant/rest1.webp);
+    background-size: cover;
+    background-position: center;
+}
+.hero-area.style-three {
+    background: url(../img/banquet/banq4.png);
+    background-size: cover;
+    background-position: center;
+}
+.hero-area.style-four {
+    background: url(../img/restaurant/rest1.webp);
+    background-size: cover;
+    background-position: center;
 }
 
 .hotel-rating ul li {
@@ -1406,7 +1418,7 @@ a.facilities-button i:hover{
 <!--Testimonial Area-->
 <!-- ===================-->*/
 .testimonial-area {
-    background: url(../img/home-1/testi-bg.jpg);
+    background: url(../img/ext-4.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -7168,7 +7180,7 @@ a.dark-logo {
 <!--Start Breadcumb Area-->
 <!-- ========================================-->*/
 .breadcumb-area {
-    background: url(../img/inner/breadcumb.jpg);
+    background: url(../img/ext-3.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -7195,7 +7207,7 @@ a.dark-logo {
 
 .breacumb-content ul li a{
     display: inline-block;
-   color: #a77724;
+   color: #fff;
 }
 
 
